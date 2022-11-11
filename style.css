@@ -1,0 +1,50 @@
+body{
+    background-color: whitesmoke;
+    margin-left: 20px;
+}
+.anchor{
+    color: red;
+    display: inline-block;
+    margin-left: 20px;
+}
+.anchor:hover{
+    color: blue;
+}
+.headdings{
+    text-align: center;
+    border: 5px solid rebeccapurple;
+    cursor: pointer;
+
+}
+.h2{
+    display: inline-block;
+}
+.h3{
+    display: inline-block;
+}
+ul{
+    list-style: none;
+}
+.p1{ 
+    color: blue;
+    font-weight:200;
+    font-size: large;
+    font-family: cursive;
+    line-height: 50px;
+
+}
+.p2{
+    font-family: 'Marhey', cursive;
+    text-decoration: underline;
+    color: blueviolet;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-style: oblique;
+    line-height: 90px;
+
+    
+}
+.span1{
+    cursor: pointer;
+    text-decoration: underline;
+}
